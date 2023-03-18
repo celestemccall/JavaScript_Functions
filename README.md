@@ -9,7 +9,7 @@
 5. Follow the instructions on the README.md file to complete exercises
 6. Open the app.js file to get started
 
-## Exercise 1: Minimum Number
+## Exercise 1: Minimum Number - DONE
 
 - In the past, we created a selection statement inside a loop that counted from 1 to 100, and only printed out the odd numbers.
 - Your task is to write a function printOdds() that takes one parameter, count, and uses a loop and selection statement to count to the number passed in, printing out the odd numbers.
@@ -22,7 +22,7 @@
    - and then `console.log()` the odd value to the console
 4. BONUS: Now that you do not know exactly what number may be passed in as `count`, use an `if` statement to account for a negative `count` being passed in.
 
-## Exercise 2: Legal?
+## Exercise 2: Legal? - DONE 
 
 - Write a function that receives a name and age, and prints a greeting message to the console using the name.
 
@@ -35,7 +35,7 @@
    - and then `console.log()` the correct message to the console.
 4. BONUS: Remember that paramaters are optional, and no `name` or `age` value could be passed in. Correctly account for no parameter being passed in.
 
-## Exercise 3: Which Quadrant?
+## Exercise 3: Which Quadrant? - DONE 
 
 Write a function that receives two parameters, x and y coordinates in
 the Cartesian plane, and prints out a message indicating if the point (x, y) lies on either the x or y axis,
@@ -47,7 +47,7 @@ the Cartesian plane, and prints out a message indicating if the point (x, y) lie
  - (1, 2) is in Quadrant 1
  - (-6, 18) is in Quadrant 2
 
-## Exercise 4: What type of triangle?
+## Exercise 4: What type of triangle? - DONE
 
 Write a function that receives three numbers that represent the lengths of a triangles three sides. If the three
 sides do not form a valid triangle (the sum of two sides should always be greater than the length of the third side),
@@ -59,7 +59,7 @@ For example:
 - Sides 1, 2, 2 make an isosceles triangle
 - Sides 1, 1, 2 make an invalid triangle
 
-## Exercise 5: Data Plan Status
+## Exercise 5: Data Plan Status - DONE
 
 Write a function that will display feedback on cell phone data usage. Cell phone
 plans for this particular company give you a certain amount of data every 30 days
